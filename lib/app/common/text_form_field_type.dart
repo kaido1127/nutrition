@@ -1,0 +1,1 @@
+enum TextFormFieldType {string,int,double}

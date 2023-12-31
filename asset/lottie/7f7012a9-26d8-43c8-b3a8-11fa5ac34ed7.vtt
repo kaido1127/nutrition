@@ -1,0 +1,226 @@
+WEBVTT
+
+1
+00:00:00.680 --> 00:00:04.179 A:middle L:90%
+Hello students, it is given in the problem that
+
+2
+00:00:05.120 --> 00:00:09.160 A:middle L:90%
+x raised to j omega, which is equal to
+
+3
+00:00:09.619 --> 00:00:14.800 A:middle L:90%
+1 minus a square divided by 1 minus a raised
+
+4
+00:00:14.839 --> 00:00:19.179 A:middle L:90%
+to minus j omega into 1 minus a e raised
+
+5
+00:00:19.239 --> 00:00:24.219 A:middle L:90%
+to j omega for part a we want to find
+
+6
+00:00:24.420 --> 00:00:28.480 A:middle L:90%
+the Sequence of x of n by partial fraction we
+
+7
+00:00:28.640 --> 00:00:31.519 A:middle L:90%
+can write x, raise to j omega, as
+
+8
+00:00:31.699 --> 00:00:34.740 A:middle L:90%
+that is x, raise to j omega, which
+
+9
+00:00:34.799 --> 00:00:38.060 A:middle L:90%
+is equal to 1 by 1 minus. A e
+
+10
+00:00:38.179 --> 00:00:42.320 A:middle L:90%
+raised to j omega plus 1 by 1 minus a
+
+11
+00:00:42.780 --> 00:00:46.359 A:middle L:90%
+e raised to minus j omega taking in verse,
+
+12
+00:00:46.479 --> 00:00:50.539 A:middle L:90%
+for you transform that is x n equal to a
+
+13
+00:00:50.679 --> 00:00:54.659 A:middle L:90%
+raised to nu of n minus 1 by a word
+
+14
+00:00:54.740 --> 00:00:59.439 A:middle L:90%
+raised to n of n minus 1. That is
+
+15
+00:00:59.740 --> 00:01:03.179 A:middle L:90%
+x of n can be written as x of n
+
+16
+00:01:03.579 --> 00:01:04.700 A:middle L:90%
+, which is equal to a raised to n.
+
+17
+00:01:06.359 --> 00:01:08.420 A:middle L:90%
+U of n minus a raised 2 minus n?
+
+18
+00:01:08.680 --> 00:01:14.579 A:middle L:90%
+U of n minus 1 mark- and this is
+
+19
+00:01:14.680 --> 00:01:17.599 A:middle L:90%
+the sequence of x of n for part b.
+
+20
+00:01:18.599 --> 00:01:22.099 A:middle L:90%
+We want to calculate the integral minus pi 2 pi
+
+21
+00:01:22.439 --> 00:01:25.500 A:middle L:90%
+x, raise to j omega cos omega d omega
+
+22
+00:01:26.040 --> 00:01:30.379 A:middle L:90%
+divided by 2 pi that is x, o n
+
+23
+00:01:32.060 --> 00:01:34.079 A:middle L:90%
+, which is equal to 1 by 2 pi,
+
+24
+00:01:34.879 --> 00:01:38.939 A:middle L:90%
+integral minus pi, 2 pi x e raise to
+
+25
+00:01:38.120 --> 00:01:44.379 A:middle L:90%
+j omega e raised To j, omega n plus
+
+26
+00:01:44.579 --> 00:01:49.540 A:middle L:90%
+j omega in omega, we have, from the
+
+27
+00:01:49.159 --> 00:01:53.920 A:middle L:90%
+sequence a we can write x of 1, which
+
+28
+00:01:53.980 --> 00:01:57.219 A:middle L:90%
+is equal to a minus 1 by a and x
+
+29
+00:01:57.340 --> 00:02:06.599 A:middle L:90%
+of 1 equal to 0. By equation a now
+
+30
+00:02:06.739 --> 00:02:09.400 A:middle L:90%
+, we can write x of 1, which is
+
+31
+00:02:09.500 --> 00:02:14.340 A:middle L:90%
+equal to 1 by 2 pi, integral minus pi
+
+32
+00:02:14.560 --> 00:02:19.039 A:middle L:90%
+, 2 pi x e raise to j omega into
+
+33
+00:02:19.340 --> 00:02:21.500 A:middle L:90%
+e, raise to j, omega d, omega
+
+34
+00:02:22.680 --> 00:02:25.719 A:middle L:90%
+markets, 1 and x of minus 1 equal to
+
+35
+00:02:27.060 --> 00:02:30.620 A:middle L:90%
+integral minus pi. 2 pi 1 by 2 pi
+
+36
+00:02:30.879 --> 00:02:34.860 A:middle L:90%
+e raise to j omega into e, raise to
+
+37
+00:02:35.000 --> 00:02:42.080 A:middle L:90%
+minus j omega d omega market as to from 2
+
+38
+00:02:42.460 --> 00:02:46.800 A:middle L:90%
+and 1. Add these equations together that is x
+
+39
+00:02:46.960 --> 00:02:50.860 A:middle L:90%
+of 1 plus x of minus 1, which is
+
+40
+00:02:50.960 --> 00:02:53.439 A:middle L:90%
+equal to 1 by 2 pi. Integral minus pi
+
+41
+00:02:53.680 --> 00:02:59.479 A:middle L:90%
+2 pi x e raise to j omega into e
+
+42
+00:02:59.560 --> 00:03:00.840 A:middle L:90%
+, raise to j omega plus e, raise to
+
+43
+00:03:00.960 --> 00:03:06.939 A:middle L:90%
+minus j omega d omega. This can be written
+
+44
+00:03:07.120 --> 00:03:09.020 A:middle L:90%
+as x of 1 plus x of minus 1,
+
+45
+00:03:09.520 --> 00:03:16.560 A:middle L:90%
+which is equal to 1 by 2 pi integral minus
+
+46
+00:03:16.699 --> 00:03:21.719 A:middle L:90%
+pi 2 pi x e, raised to j omega
+
+47
+00:03:22.439 --> 00:03:27.280 A:middle L:90%
+2 cos omega t omega, that is equal to
+
+48
+00:03:28.900 --> 00:03:31.120 A:middle L:90%
+1 by 2 pi, integral minus pi, 2
+
+49
+00:03:31.319 --> 00:03:36.939 A:middle L:90%
+Pi x e, raise to j omega cos omega
+
+50
+00:03:37.979 --> 00:03:43.400 A:middle L:90%
+d omega that is x of 1 plus x of
+
+51
+00:03:43.580 --> 00:03:46.219 A:middle L:90%
+minus 1, divided by 2, that is equal
+
+52
+00:03:46.379 --> 00:03:50.879 A:middle L:90%
+to a minus 1 by a divided by 2.
+
+53
+00:03:51.719 --> 00:03:54.439 A:middle L:90%
+On calculation, we get the value of integral,
+
+54
+00:03:54.719 --> 00:03:59.900 A:middle L:90%
+as which is equal to a square minus 1 divided
+
+55
+00:04:00.000 --> 00:04:02.259 A:middle L:90%
+by 2. An i hope you find the video
+
+56
+00:04:02.659 --> 00:04:03.599 A:middle L:90%
+useful. Thank you.
+
